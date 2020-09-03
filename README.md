@@ -1,3 +1,3 @@
 ## Summary
-we have made an eCommerce website like Amazon. 
+Have made an eCommerce website like Amazon. 
 
